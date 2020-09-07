@@ -2,6 +2,9 @@ name: IBM Cloud Auto Install
 
 on:
   workflow_dispatch:
+    inputs:
+
+
 
 jobs:
   ibm-cloud-install:
